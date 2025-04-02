@@ -1,0 +1,1 @@
+au BufRead,BufNewFile *.pq		set filetype=pq
